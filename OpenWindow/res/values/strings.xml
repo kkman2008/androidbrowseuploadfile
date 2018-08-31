@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OpenWindow</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+     <string name="upload_title">上传附件</string>
+     <string name="upload_begin">上传</string>
+    <string name="look_pictrue">浏览</string>
+    <string name="file_upload">文件上传：</string>
+    <string name="cancel_back">返回</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <color name="tab_indicator">#4784e0</color>
+    <color name="title_bg">#2f3535</color>
+    <color name="update_dialog_stroke">#0055aa</color>
+    <color name="blank">#000000</color>
+
+</resources>
