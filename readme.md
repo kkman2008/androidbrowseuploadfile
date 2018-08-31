@@ -20,4 +20,4 @@
 
 接下来将给出两个项目部分代码，当然两个项目都有一个工具类HttpPost
 
- ![](D:\workspace\mobile\androidbrowseuploadfile\res\20180901.png)
+ ![](res\20180901.png)
